@@ -1,2 +1,2 @@
 # GuessTheNumber
-Learning git with an old java Guessing game
+Old java Guessing game
